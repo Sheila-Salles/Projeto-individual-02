@@ -1,0 +1,37 @@
+Nome: Fábio Salles, tem 21 anos, estudante de T.I na universidade Estacio de Sa, cursou Java, Phython e SQL no Senac. E esta buscando o seu primeiro emprego nessa area.
+
+Nome: Nicolly dos Santos, 25 anos, estudante de Analises de dados no Senac, graduada em Administracao de empresas.
+
+Nome: Julio Alves, 55 anos, graduado em ciencias contabeis e administracao de empresas, tem uma vasta experiencia com vendas e atualmente esta estudando programacao no Senac.
+
+Nome: Renata Salles, tem 21 anos,estudante de T.I na universidade Estacio de Sa, cursou Java, Phython e SQL no Senac. E esta buscando o seu primeiro emprego nessa area.
+
+Nome: Fernando dos Santos, 38 anos, estudante de Analises de dados no Senac, graduada em Administracao de empresas.
+
+Nome: Jair Alves, 37 anos, graduado em ciencias contabeis e administracao de empresas, tem uma vasta experiencia com vendas e atualmente esta estudando programacao no Senac.
+
+Nome: Carla Salles, tem 35 anos, estudante de T.I na universidade Estacio de Sa, cursou Java, Phython e SQL no Senac. E esta buscando o seu primeiro emprego nessa area.
+
+Nome: Rafaella dos Santos, 25 anos, estudante de Analises de dados no Senac, graduada em Administracao de empresas.
+
+Nome: Paulo Alves, 36 anos, graduado em ciencias contabeis e administracao de empresas, tem uma vasta experiencia com vendas e atualmente esta estudando programacao no Senac.
+
+Nome: Robson Salles, tem 26 anos, estudante de T.I na universidade Estacio de Sa, cursou Java, Phython e SQL no Senac. E esta buscando o seu primeiro emprego nessa area.
+
+Nome: Renato dos Santos, 40 anos, estudante de Analises de dados no Senac, graduada em Administracao de empresas.
+
+Nome: Antonio Alves, 30 anos, graduado em ciencias contabeis e administracao de empresas,tem uma vasta experiencia com vendas e atualmente esta estudando programacao no Senac. 
+
+Nome: Mara Alves, 48 anos, graduado em ciencias contábeis e administracao de empresas, tem uma vasta experiencia com vendas e atualmente esta estudando programação no Senac.
+
+Nome: Sandra Salles, tem 50 anos,estudante de T.I na universidade Estacio de Sa, cursou Java, Phython e SQL no Senac. E esta buscando o seu primeiro emprego nessa area.
+
+Nome: Simone dos Santos, 35 anos, estudante de Analises de dados no Senac, graduada em Administracao de empresas.
+
+Nome: Suelen Alves, 36 anos, graduado em ciencias contabeis e administracao de empresas, tem uma vasta experiencia com vendas e atualmente esta estudando programacao no Senac.
+
+Nome: Raquel Salles, tem 26 anos, estudante de T.I na universidade Estacio de Sa, cursou Java, Phython e SQL no Senac. E esta buscando o seu primeiro emprego nessa area.
+
+Nome: Leonardo dos Santos, 60 anos, estudante de Analises de dados no Senac, graduada em Administracao de empresas.
+
+Nome: Vinicius Alves, 26 anos, graduado em ciencias contabeis e administracao de empresas, tem uma vasta experiencia com vendas e atualmente esta estudando programacao no Senac.
